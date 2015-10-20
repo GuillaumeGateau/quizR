@@ -1,0 +1,33 @@
+body {
+	background-color: #f9f9f9;
+}
+
+.quiz-question {
+	background-color: #add8e6;
+	width: 60%;
+	margin: 2% 20%;
+	padding: 10px 25px 25px 100px;
+
+}
+
+h3 {
+	font-size: 28px;
+	color: #424242;
+}
+
+.form-sizing {
+	font-size: 20px;
+	color: #424242;
+	padding: 10px 50px 10px 20px;
+}
+
+.input-text {
+	padding: 10px 50px 10px 20px;
+	float:right;
+}
+
+.clearfix:before {
+	clear: both;
+	content: "";
+	display: table;
+}
